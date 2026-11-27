@@ -27,3 +27,4 @@ executor → pull request）。实际工程内容待补充。
 - 本仓库是 `dsh-superagent` 研究原型的部署目标，不是 DeepSeek 官方产品。
 - agent 的提交、评论、PR 都会出现在 `@yaolong-bot` 名下。
 - 本仓库的外网访问经由企业代理。
+- 飞书来源已接通。
